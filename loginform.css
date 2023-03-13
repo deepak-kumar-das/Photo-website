@@ -1,0 +1,59 @@
+body{
+    background-image: url(image/login.jpg);
+    background-color: rgb(222, 110, 110);
+    background-size:cover;
+}
+.card{
+    margin-top: 8%;
+    margin-left: 35%;
+    width:330px;
+    height: 370px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(46, 76, 186,0.5);
+}
+.username input{
+    margin-top:20px;
+    border:none;
+    outline:none;
+    border-bottom:2px solid blue;
+    cursor:pointer;
+    border-radius: 10px;
+    height:20px;
+    background-color: rgb(109, 189, 224);
+}
+.password input{
+    margin-top:20px;
+    border:none;
+    outline:none;
+    border-bottom:2px solid blue;
+    cursor:pointer;
+    border-radius: 10px;
+    height:20px;
+    background-color: rgb(109, 189, 224);
+}
+.forget{
+    margin-top:20px;
+    font-size:18px;
+}
+.btn .login-btn{
+    width:250px;
+    height: 40px;
+    background-color:rgb(218, 51, 51);
+    border: none;
+    font-size:18px;
+    color:white;
+    border-radius: 20px;
+    margin-top:40px
+}
+.btn .login-btn:hover{
+    font-size:22px;
+}
+.sign-up{
+    margin-top:20px;
+    font-size:18px;
+    color:rgb(75, 14, 14);
+}
+
+
+

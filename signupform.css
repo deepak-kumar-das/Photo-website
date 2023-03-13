@@ -1,0 +1,39 @@
+body{
+    background-image: url("image/background.webp");
+    background-color:aqua;
+    background-size:cover;
+}
+.card{
+    margin-top: 5px;
+    margin-left:480px;
+    text-align:center;
+    background-color:rgba(218, 90, 26, 0.5);
+    height:440px;
+    width:300px;
+    border-radius: 10px;
+
+}
+.all{
+   border:none;
+   border-radius: 10px;
+   height:25px;
+   width:173px;
+   background-color: rgb(233, 233, 114);
+   font-size: 14px;
+   border:2px solid rgb(106, 10, 10);
+   cursor: pointer;
+}
+label{
+    font-weight: bold;
+    font-size:17px;
+}
+
+.signup{
+    width:178px;
+    height:32px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: rgb(222, 43, 12);
+    border-radius: 10px;
+    
+}
